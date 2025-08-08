@@ -1,0 +1,15 @@
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\bin\Debug\net8.0\Task3_Interfaces.exe
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\bin\Debug\net8.0\Task3_Interfaces.deps.json
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\bin\Debug\net8.0\Task3_Interfaces.runtimeconfig.json
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\bin\Debug\net8.0\Task3_Interfaces.dll
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\bin\Debug\net8.0\Task3_Interfaces.pdb
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\Task3_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\Task3_Interfaces.AssemblyInfoInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\Task3_Interfaces.AssemblyInfo.cs
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\Task3_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\Task3_Interfaces.sourcelink.json
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\Task3_Interfaces.dll
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\refint\Task3_Interfaces.dll
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\Task3_Interfaces.pdb
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\Task3_Interfaces.genruntimeconfig.cache
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task3_Interfaces\obj\Debug\net8.0\ref\Task3_Interfaces.dll
