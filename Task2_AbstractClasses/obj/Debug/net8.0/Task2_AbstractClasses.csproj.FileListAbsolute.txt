@@ -1,0 +1,15 @@
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.exe
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.deps.json
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.runtimeconfig.json
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.dll
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\bin\Debug\net8.0\Task2_AbstractClasses.pdb
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.AssemblyInfoInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.AssemblyInfo.cs
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.sourcelink.json
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.dll
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\refint\Task2_AbstractClasses.dll
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.pdb
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\Task2_AbstractClasses.genruntimeconfig.cache
+C:\Users\woako\Downloads\dcit318-assignment2-11253248\Task2_AbstractClasses\obj\Debug\net8.0\ref\Task2_AbstractClasses.dll
